@@ -227,7 +227,7 @@ int main(int argc, char** argv) {
 
     puts("\nGracias popr jugar con nosotros");
     puts("");
-    puts("Estes es un programa echo por Ernesto y Sergio");
+    
 
     return (EXIT_SUCCESS);
 
